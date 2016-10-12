@@ -1,0 +1,9 @@
+.post{
+  font-style: italic;
+  font-weight: bold;
+  color: purple;
+}
+.about{
+  font-style: normal;
+  color: red;
+}
