@@ -2,6 +2,8 @@
   font-style: italic;
   font-weight: bold;
   color: purple;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .about{
   font-style: normal;
